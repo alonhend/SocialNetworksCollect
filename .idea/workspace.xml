@@ -4,7 +4,7 @@
     <list default="true" id="18cba7a2-23da-45e7-99b2-6d65889f8998" name="Default" comment="" />
     <ignored path="tryfacebook.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="18cba7a2-23da-45e7-99b2-6d65889f8998" time="1378726094984" ignored="false" />
+    <file path="/index.html" changelist="18cba7a2-23da-45e7-99b2-6d65889f8998" time="1378726410462" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="8" selection-start="2167" selection-end="2167" vertical-scroll-proportion="0.8628049">
+            <state line="31" column="8" selection-start="1193" selection-end="1193" vertical-scroll-proportion="0.5884146">
               <folding />
             </state>
           </provider>
@@ -227,7 +227,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="8" selection-start="2167" selection-end="2167" vertical-scroll-proportion="0.8628049">
+        <state line="31" column="8" selection-start="1193" selection-end="1193" vertical-scroll-proportion="0.5884146">
           <folding />
         </state>
       </provider>
